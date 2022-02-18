@@ -1,0 +1,24 @@
+{
+  "name": "pomodoro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx browser-sync start -sw"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waveess/pomodoro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waveess/pomodoro/issues"
+  },
+  "homepage": "https://github.com/waveess/pomodoro#readme",
+  "dependencies": {
+    "node": "^17.4.0"
+  }
+}
